@@ -1,1 +1,3 @@
 # Multi-Point-Clouds
+An implementation of multi point clouds synchronization and visualization
+https://www.researchgate.net/publication/268005495_A_System_for_360_BULLET_Acquisition_and_3D_Animation_Reconstruction_using_Multiple_RGB-D_Cameras
